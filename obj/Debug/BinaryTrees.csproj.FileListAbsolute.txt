@@ -1,0 +1,11 @@
+F:\VSProjects\BinaryTrees\obj\Debug\BinaryTrees.csproj.AssemblyReference.cache
+F:\VSProjects\BinaryTrees\obj\Debug\BinaryTrees.csproj.SuggestedBindingRedirects.cache
+F:\VSProjects\BinaryTrees\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+F:\VSProjects\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+F:\VSProjects\BinaryTrees\bin\Debug\BinaryTrees.exe
+F:\VSProjects\BinaryTrees\bin\Debug\BinaryTrees.pdb
+F:\VSProjects\BinaryTrees\bin\Debug\nunit.framework.dll
+F:\VSProjects\BinaryTrees\bin\Debug\nunitlite.dll
+F:\VSProjects\BinaryTrees\obj\Debug\BinaryTrees.csproj.CopyComplete
+F:\VSProjects\BinaryTrees\obj\Debug\BinaryTrees.exe
+F:\VSProjects\BinaryTrees\obj\Debug\BinaryTrees.pdb
